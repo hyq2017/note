@@ -2,12 +2,12 @@
     "navigation":
     [
         {
-            "text": "Home",
+            "text": "首页",
             "target": "index.md",
             "toc": false
         },
         {
-            "text": "Notebook",
+            "text": "Documents",
             "target": "doc/_vnote.json",
             "navi": true
         }
